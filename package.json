@@ -1,6 +1,6 @@
 {
   "name": "desipik",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -19,6 +19,8 @@
     "if-env": "^1.0.0",
     "node-sass": "^4.5.3",
     "preact-cli": "^1.4.1",
+    "react-transition-group": "^2.2.0",
+    "reactstrap": "^4.8.0",
     "sass-loader": "^6.0.6"
   },
   "dependencies": {
